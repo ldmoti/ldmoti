@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ldmoti
+- 👋 Hi, I’m Moti Leggese
 - 👀 I’m interested in ... coding 
 - 🌱 I’m currently learning ... software engineering 
 - 💞️ I’m looking to collaborate on ... Anything
